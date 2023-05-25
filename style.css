@@ -1,4 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: aquamarine;
+    margin: 0%;
+}
+.naveg{
+    background-color: rgb(255, 255, 255);
+    text-decoration: none;
+    color: black;
+    margin: 15px, 30px;
+}
 h1{
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#img1{
+    border-radius: 100px;
+}
+#img1div{
+    text-align: center;
 }
