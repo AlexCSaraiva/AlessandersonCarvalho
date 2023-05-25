@@ -12,6 +12,7 @@ body{
     color: black;
     border-radius: 30px;
     padding: 5px 10px;
+    line-height: 35px;
 
 }
 h1{
@@ -19,9 +20,12 @@ h1{
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 #img1{
-    border-radius: 100px;
+    border-radius: 40%;
 }
 #img1div{
     text-align: center;
     height: auto;
+}
+#fflink{
+    text-decoration: none;    
 }
